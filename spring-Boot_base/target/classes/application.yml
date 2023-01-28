@@ -1,0 +1,16 @@
+# debug: true   查看哪一些是用的资源，哪一些还没有配置的资源
+server:
+  port: 8080
+dog:
+  PersonId: "789"
+  FirstName: "天蝎座"
+  LastName: "狮子座"
+
+spring:
+  thymeleaf:
+    cache: false
+
+
+
+
+
